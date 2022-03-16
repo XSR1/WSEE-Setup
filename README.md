@@ -1,3 +1,6 @@
+# The project is archived
+This project has been archived because I no longer use Windows Server.
+
 # WSEE-Setup
 
 Installing Windows Server Essentials Experience on Windows Server 2022 
